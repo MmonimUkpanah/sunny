@@ -25,6 +25,7 @@
                 <p>WHITEWOOD</p>
                 <p>SD 57793, USA</p>
                 <p>FAX NUMBER: +1 438 260 4603</p>
+                <p>EMAIL: info@sunnyseedoil.com</p>
             </div>
         </div>
     </div>
