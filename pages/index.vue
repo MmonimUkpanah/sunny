@@ -61,7 +61,7 @@
       <div class="cele2"
       
              >
-        <p>Sunny is the leading brand of the Ukrainian sunflower seeds processing company 
+        <p>Sunny is the leading brand of the American sunflower seeds processing company 
           Sunny Seed Oil (a private joint-stock company)</p>
           <p>We produce</p>
           <ul>

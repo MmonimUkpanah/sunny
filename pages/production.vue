@@ -33,7 +33,7 @@
     </div>
     <div class="pl">
         <div class="pl1">
-            <p>The modern oil extraction plant Sunny is situated in Svyatoshynska Street 28 A, Vyshneve, Ukraine.
+            <p>The modern oil extraction plant Sunny is situated in Whitewood, SD 57793, USA.
 
 The plant is fitted with highly effective equipment and all the technological processes comply with international standards as well as environmental laws.</p>
         </div>
@@ -112,7 +112,7 @@ The plant is fitted with highly effective equipment and all the technological pr
             <div class="qua4">
                 <p><span class="qua3">RAW MATERIAL TESTING</span></p>
                 <p>We use sunflower seeds with organoleptic, physico-chemical and safety indices that meet DSTU 
-                4694 and DSTU 7011 (Ukrainian government standards) criteria for oil production. Our lab 
+                4694 and DSTU 7011 (American government standards) criteria for oil production. Our lab 
                 technicians select a sample of sunflower seeds to conduct analysis according to DSTU 4601 
                 criteria on the basis of our certified laboratory before the raw material is used in 
                 the production.</p>

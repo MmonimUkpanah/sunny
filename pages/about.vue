@@ -40,7 +40,7 @@
         <div class="pro2"
         da
         >
-          <h2>HEAVY CROP OF  <span class="pro4">WORLD-FAMOUS</span> UKRAINIAN SUNFLOWERS </h2>
+          <h2>HEAVY CROP OF  <span class="pro4">WORLD-FAMOUS</span> AMERICAN SUNFLOWERS </h2>
         </div>
         <div class="pro3"
         
@@ -67,12 +67,12 @@
       <div class="cele2" 
       
         >
-        <p>Sunny is the leading brand of the Ukrainian company Sunny Seed Oil (a private joint-stock company). It is a major Ukrainian sunflower seeds
+        <p>Sunny is the leading brand of the American company Sunny Seed Oil (a private joint-stock company). It is a major American sunflower seeds
               processing company that has been producing a large range of products for over 
               30 years.</p>
           <p>The high quality of the products is accomplished through the combination 
               of modern and effective production and bountiful harvest of well-known 
-              Ukrainian sunflowers. Sunny sunflower oil is an abundance of carefully picked 
+              American sunflowers. Sunny sunflower oil is an abundance of carefully picked 
               and processed sunflowers.</p>
           <p>Our company produces refined and unrefined sunflower oil. We also offer an 
               extensive range of sunflower seeds products and raw material processing services.</p>
@@ -125,7 +125,7 @@
       
         >
         <h2> SUSTAINABLE DEVELOPMENT</h2>
-        <p><span class="cele5">RESPONSIBILITY TOWARDS NATURAL RESOURCES OF UKRAINE </span> </p>
+        <p><span class="cele5">RESPONSIBILITY TOWARDS NATURAL RESOURCES OF AMERICA </span> </p>
         <p>A complex approach to environmental protection is a very important part of the company's work. It involves the optimal usage of the resources and implementation of measures for the preservation of the environment.</p>
         <p><span class="cele5">PRODUCT SAFETY </span> </p>
           <p>Our company produces refined and unrefined sunflower oil. We also offer an 

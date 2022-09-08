@@ -73,7 +73,7 @@
     <div class="lab">
         <div class="lab1">
             <h2>TM SUNNY SEED OIL</h2>
-            <p>Sunny seed oil is a well-known Ukrainian sunflower seeds processing company that produces a large range of products under its own brand, Sunny.</p>
+            <p>Sunny seed oil is a well-known American sunflower seeds processing company that produces a large range of products under its own brand, Sunny.</p>
             <img src="/img/priv.jpg" alt="">
         </div>
         <div class="lab2">
