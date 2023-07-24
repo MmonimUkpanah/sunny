@@ -23,7 +23,7 @@
             <div class="goal3">
                 <p><span class="goal4">HEAD OFFICE</span> </p>
                 <p>Hermana Tytova Ave, 67, Donetsk, Donetsk Oblast, 83000, Ukraine.</p>
-                <p>Phone Numbers: +380 0 (66) 771 00 83, +380 (66) 771 00 83, +380 (63) 325 07 493</p>
+                <p>Phone Numbers: +380 0 (66) 771 00 83, +380 (63) 325 07 493</p>
                 <p>Email: info@sunnyseedoil.com</p>
             </div>
         </div>
