@@ -22,10 +22,9 @@
             </div>
             <div class="goal3">
                 <p><span class="goal4">HEAD OFFICE</span> </p>
-                <p>WHITEWOOD</p>
-                <p>SD 57793, USA</p>
-                <p>FAX NUMBER: +1 438 260 4603</p>
-                <p>EMAIL: info@sunnyseedoil.com</p>
+                <p>Hermana Tytova Ave, 67, Donetsk, Donetsk Oblast, 83000</p>
+                <p>Phone Numbers: +380 0 (66) 771 00 83, +380 (66) 771 00 83, +380 (63) 325 07 493</p>
+                <p>Email: info@sunnyseedoil.com</p>
             </div>
         </div>
     </div>
